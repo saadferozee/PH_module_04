@@ -47,11 +47,37 @@ Video 01___________________________________________
 Video 02___________________________________________
     (Explore HTML5: nav, main, header, footer, section, article)
 
-    
+    Semantic tags -->
 
+        Structure -->
 
-
-
+            <body>
+                <header>
+                    <nav>
+                        <ul>
+                            <li>Home</li>
+                            <li>Contact</li>
+                            <li>About</li>
+                    </nav>
+                </header>
+                <main>
+                    <article>
+                        <header>
+                            <h3>Travel with Someone Loved</h3>
+                            <p>My first travel with her</p>
+                        <figure>
+                            <image src="" width="100%">
+                            <figcaption>Image description.</figcaption>
+                        </figure>
+                        <section>
+                            <h4>When there..</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores vitae quibusdam enim a at neque, minus amet necessitatibus aliquam quod aut accusantium error culpa doloremque eaque in tenetur ipsa maxime quae esse praesentium. Perferendis, et? Consequatur quia obcaecati hic nihil, fugiat rem totam veniam commodi modi quo labore harum neque.</p>
+                    </article>
+                </main>
+                <footer>
+                    <h6> &copy; All right reserved by author </h6>
+                </footer>
+            </body>
 
 
 
