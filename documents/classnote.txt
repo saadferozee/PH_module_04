@@ -100,9 +100,24 @@ Video 03___________________________________________
 
 
 Video 04___________________________________________
+    (HTML Table: table, tr, th, td, caption, colspan, thead, tbody, tfoot tags)
 
 
+    Adding table -->
 
+        tags -->
+            • Table: <table></table>
+            • Caption: <caption></caption>
+            • Table Header: <thead></thead>
+            • Table Row: <tr></tr>
+            • Table Head: <th></th>
+            • Table Body: <tbody></tbody>
+            • Table Data: <td></td>
+            • Table Footer: <tfoot></tfoot>
+            
+    Add a data with taken 2 column -->
+
+        Use the attribute --> colspan="<value>"
 
 
 
