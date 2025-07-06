@@ -82,9 +82,20 @@ Video 02___________________________________________
 
 
 Video 03___________________________________________
- 
+    (HTML Form: Label, Fieldset, Legend, Radio, Checkbox, Textarea, Reset, Submit)
 
+    Fieldset -->
 
+        We can use fieldset in form tag -->
+
+            Structure -->
+
+                <fieldset>
+                    <legend>Bus Ticket</legend>
+
+                    <label for="ac-bus">Enter Destination</label>
+                    <input type="text" name="" id="ac-bus">
+                </fieldset>
 
 
 
