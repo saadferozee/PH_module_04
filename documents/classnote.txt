@@ -1,0 +1,111 @@
+--------------------------------------------------
+    Start { 06.07.2025 SUN 11:26 PM }
+--------------------------------------------------
+
+
+[Module 04]
+    (More About HTML & CSS)
+
+
+
+
+
+Text Instruction___________________________________
+
+    Bengali Instruction -->
+
+        "তো আজকে তোমার কাজ হচ্ছে কিছুটা রিভার্সভাবে চিন্তা করা যে, আমার একটা টেবিল লাগবে সেটা আমি কিভাবে বানাবো? কিভাবে ফরম বানাবো? কিভাবে একটা নেভিগেশন বানাবো? ইত্যাদি ইত্যাদি"
+
+
+
+Video 01___________________________________________
+    (HTML vs HTML5, Audio, Video, YouTube Video, Embed iFrame)
+
+    Semantic HTML5 -->
+
+        We use semantic tags for various type of people like visually imperfect people.
+        And using semantic tags are very helpful for SEO purpose.
+
+    Add Media -->
+        
+        Adding Audio -->
+             
+            tag --> <audio src="test.mp3" controls><audio>
+
+        Adding Video -->
+
+            tag --> <video src="test.mov" controls><video>
+
+        Adding a YouTube Video --> [iframe]
+
+            Usage --> Go to YouTube video, click on share option, click on Embed, then paste the code in HTML file.
+
+        (We can control iframe or video width/height using width/height attribute)
+
+
+
+Video 02___________________________________________
+    (Explore HTML5: nav, main, header, footer, section, article)
+
+    
+
+
+
+
+
+
+
+Video 03___________________________________________
+ 
+
+
+
+
+
+Video 04___________________________________________
+
+
+
+
+
+
+Video 05___________________________________________
+
+
+
+
+
+Video 06___________________________________________
+
+
+
+
+
+Video 07___________________________________________
+
+
+
+
+Video 08___________________________________________
+
+
+
+
+Video 09___________________________________________
+
+
+
+
+--------------------------------------------------
+    Pause { 00.07.2025 THU 00:00 PM } to { 00.07.2025 THU 00:00 PM }
+--------------------------------------------------
+
+PRACTICE TASK --->
+
+
+
+
+© Saad_Ferozee
+--------------------------------------------------
+    End { 00.07.2025 WED 00:00 AM }
+--------------------------------------------------
