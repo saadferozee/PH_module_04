@@ -122,8 +122,17 @@ Video 04___________________________________________
 
 
 Video 05___________________________________________
+    (CSS Flex Layout: Basic Overview)
 
+    
+    Use Wrap and Gap Property in Flex-box -->
 
+        property -->
+            <parent> {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 30px;
+            }
 
 
 
