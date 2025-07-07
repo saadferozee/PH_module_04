@@ -18,9 +18,9 @@ caption {
 }
 fieldset {
     border: 1px solid white;
-    
+    align-items: center;
 }
-input {
+textarea {
     width: 200px;
 }
 th, td {
