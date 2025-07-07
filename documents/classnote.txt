@@ -177,28 +177,61 @@ Video 07___________________________________________
 
 
 --------------------------------------------------
-    Pause { 07.07.2025 MON 10:34 AM } to { 07.07.2025 MON 00:00 AM }
+    Pause { 07.07.2025 MON 10:34 AM } to { 07.07.2025 MON 06:16 PM }
 --------------------------------------------------
 
 
 
 Video 08___________________________________________
+    (Hero: Create a simple banner with flex box)
 
+
+    We can align items in center vertically.
+        <selector> {
+            align-items: center;
+        }
 
 
 
 Video 09___________________________________________
+    (Card: Create some card sections and style)
+
+    We can create a card section using div. And I joined the boot camp, so I know how to build a card.
+
+    We use flex-wrap to create a multi line card section.
 
 
+
+--------------------------------------------------
+    Pause { 07.07.2025 MON 06:49 PM } to { 07.07.2025 MON 07:21 PM }
+--------------------------------------------------
+
+
+
+Video 10___________________________________________
+    (HTML Overview: Summary, Practice Task)
+
+    ....
 
 
 
 PRACTICE TASK --->
 
+    Task 01 -->
+        .....
+
+    Task 02 -->
+        .....
+
+    Task 03 -->
+        .....
+
+    Task 04 -->
+        .....
 
 
 
 © Saad_Ferozee
 --------------------------------------------------
-    End { 00.07.2025 WED 00:00 AM }
+    End { 00.07.2025 WED 07:31 AM }
 --------------------------------------------------
