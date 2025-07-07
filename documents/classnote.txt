@@ -135,15 +135,50 @@ Video 05___________________________________________
             }
 
 
+--------------------------------------------------
+    Pause { 07.07.2025 MON 02:25 AM } to { 07.07.2025 MON 10:00 AM }
+--------------------------------------------------
+
+
 
 Video 06___________________________________________
+    (Horizontal and Vertical Center using Flex and Margin: 0 auto; )
 
 
+    Horizontally centering a div -->
+         
+         We can use Flex, but widely acceptable is -> 
+            <selector> { margin: 0 auto; }
 
 
 
 Video 07___________________________________________
+    (Navigation: Simple Navbar and Internal Navigation Among Files)
 
+
+    We can use <a> tag for connecting all files internally, it called Internal Navigation.
+    Here's the simple example -->
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="article.html">Articles</a></li>
+                <li><a href="category.html">Categories</a></li>
+                <li><a href="about.html">About Us</a></li>
+
+    We can erase the decoration of <li> tags default using -->
+
+        <selector> li {
+            list-style: none;
+        }
+        <selector> a {
+            text-decoration: none;
+            color: black;
+        }
+
+
+--------------------------------------------------
+    Pause { 07.07.2025 MON 10:34 AM } to { 07.07.2025 MON 00:00 AM }
+--------------------------------------------------
 
 
 
@@ -157,9 +192,6 @@ Video 09___________________________________________
 
 
 
---------------------------------------------------
-    Pause { 00.07.2025 THU 00:00 PM } to { 00.07.2025 THU 00:00 PM }
---------------------------------------------------
 
 PRACTICE TASK --->
 
